@@ -1,2 +1,35 @@
-['354-20160' '354-21030' '354-21160' ..., '442-02080' '121-17510'
- '893-00750']
+unique meters:  29360
+number of smart meters:  8139
+number of smart meters on geary blvd:  163
+MISSION ST       1425
+GEARY BLVD        901
+HOWARD ST         569
+VALENCIA ST       564
+POST ST           506
+CALIFORNIA ST     472
+CLEMENT ST        441
+IRVING ST         415
+POLK ST           407
+TOWNSEND ST       391
+WASHINGTON ST     387
+BRANNAN ST        364
+24TH ST           352
+FOLSOM ST         339
+SACRAMENTO ST     337
+...
+MALLORCA WAY       4
+JORDAN AVE         4
+REVERE AVE         4
+AVILA ST           4
+12TH AVE           4
+KINGSTON ST        3
+KERN ST            3
+30TH ST            3
+WALTER U LUM PL    3
+36TH AVE           3
+BAY VIEW ST        3
+REDWOOD ST         3
+MASONIC AVE        2
+VARELA AVE         2
+CARL ST            1
+Length: 297, dtype: int64
