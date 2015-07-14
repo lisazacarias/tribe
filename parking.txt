@@ -1,0 +1,15 @@
+unique meters:  29360
+number of smart meters:  8139
+number of smart meters on geary blvd:  163
+number of distinct streets with meters:  297
+top five streets with the most meters:
+    MISSION ST: 1425 meters
+    GEARY BLVD: 901 meters
+    HOWARD ST: 569 meters
+    VALENCIA ST: 564 meters
+    POST ST: 506 meters
+street summary statistics:
+    mean: 98.86 meters
+    median: 39 meters
+    minimum: 1 meter
+    maximum: 1425 meters

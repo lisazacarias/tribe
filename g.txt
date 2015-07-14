@@ -1,0 +1,191 @@
+unique meters:  29360
+         POST_ID      MS_ID  MS_SPACEID CAP_COLOR METER_TYPE SMART_METE  \
+173    440-17410          -           0      Grey         SS          Y   
+349    440-17290          -           0      Grey         SS          Y   
+904    440-15180          -           0      Grey         SS          Y   
+1124   440-12200  440-12004          20      Grey         MS          Y   
+1125   440-12150  440-12001          15      Grey         MS          Y   
+1348   440-17060          -           0      Grey         SS          Y   
+1637   440-15360          -           0      Grey         SS          Y   
+1656   440-17170          -           0      Grey         SS          Y   
+2373   440-12130  440-12001          13      Grey         MS          Y   
+2374   440-12190  440-12001          19      Grey         MS          Y   
+2495   440-18090          -           0    Yellow         SS          Y   
+3322   440-18300          -           0      Grey         SS          Y   
+3633   440-15080          -           0      Grey         SS          Y   
+3634   440-16400          -           0      Grey         SS          Y   
+3642   440-17420          -           0      Grey         SS          Y   
+4194   440-16260          -           0      Grey         SS          Y   
+4195   440-16500          -           0      Grey         SS          Y   
+4207   440-12220  440-12004          22      Grey         MS          Y   
+4228   440-17140          -           0      Grey         SS          Y   
+5068   440-12040  440-12002           4      Grey         MS          Y   
+5297   440-17180          -           0      Grey         SS          Y   
+5493   440-15140          -           0      Grey         SS          Y   
+5494   440-15160          -           0      Grey         SS          Y   
+5584   440-12100  440-12002          10      Grey         MS          Y   
+5585   440-12170  440-12001          17      Grey         MS          Y   
+5670   440-17040          -           0     Green         SS          Y   
+5993   440-15320          -           0      Grey         SS          Y   
+5996   440-17340          -           0      Grey         SS          Y   
+6259   440-17450          -           0      Grey         SS          Y   
+6260   440-18410          -           0     Green         SS          Y   
+...          ...        ...         ...       ...        ...        ...   
+25252  440-20100          -           0      Grey         SS          Y   
+25253  440-20120          -           0      Grey         SS          Y   
+25254  440-20140          -           0      Grey         SS          Y   
+25255  440-20160          -           0      Grey         SS          Y   
+25256  440-20180          -           0      Grey         SS          Y   
+25257  440-20200          -           0      Grey         SS          Y   
+25258  440-20220          -           0      Grey         SS          Y   
+25259  440-20240          -           0      Grey         SS          Y   
+25260  440-20260          -           0      Grey         SS          Y   
+25261  440-20030          -           0      Grey         SS          Y   
+25262  440-20050          -           0      Grey         SS          Y   
+25263  440-20090          -           0      Grey         SS          Y   
+25264  440-20110          -           0      Grey         SS          Y   
+25265  440-20130          -           0      Grey         SS          Y   
+25266  440-20150          -           0      Grey         SS          Y   
+25267  440-20170          -           0      Grey         SS          Y   
+25268  440-20190          -           0      Grey         SS          Y   
+25269  440-20210          -           0      Grey         SS          Y   
+25270  440-20230          -           0      Grey         SS          Y   
+25271  440-20250          -           0      Grey         SS          Y   
+25272  440-20270          -           0      Grey         SS          Y   
+25273  440-20290          -           0      Grey         SS          Y   
+25274  440-20310          -           0      Grey         SS          Y   
+25379  440-17220          -           0    Yellow         SS          Y   
+25759  440-16440          -           0      Grey         SS          Y   
+26383  440-15120          -           0      Grey         SS          Y   
+26582  440-15380          -           0      Grey         SS          Y   
+26653  440-16460          -           0      Grey         SS          Y   
+27845  440-12060  440-12002           6      Grey         MS          Y   
+28982  440-20300          -           0      Grey         SS          Y   
+
+      ACTIVESENS JURISDICTI ON_OFF_STR  OSP_ID  STREET_NUM  STREETNAME  \
+173            N      SFMTA         ON       0        1741  GEARY BLVD   
+349            N      SFMTA         ON       0        1729  GEARY BLVD   
+904            N      SFMTA         ON       0        1518  GEARY BLVD   
+1124           N      SFMTA         ON       0        1220  GEARY BLVD   
+1125           N      SFMTA         ON       0        1215  GEARY BLVD   
+1348           N      SFMTA         ON       0        1706  GEARY BLVD   
+1637           N      SFMTA         ON       0        1536  GEARY BLVD   
+1656           N      SFMTA         ON       0        1717  GEARY BLVD   
+2373           N      SFMTA         ON       0        1213  GEARY BLVD   
+2374           N      SFMTA         ON       0        1219  GEARY BLVD   
+2495           N      SFMTA         ON       0        1809  GEARY BLVD   
+3322           N      SFMTA         ON       0        1830  GEARY BLVD   
+3633           N      SFMTA         ON       0        1508  GEARY BLVD   
+3634           N      SFMTA         ON       0        1640  GEARY BLVD   
+3642           N      SFMTA         ON       0        1742  GEARY BLVD   
+4194           N      SFMTA         ON       0        1626  GEARY BLVD   
+4195           N      SFMTA         ON       0        1650  GEARY BLVD   
+4207           N      SFMTA         ON       0        1222  GEARY BLVD   
+4228           N      SFMTA         ON       0        1714  GEARY BLVD   
+5068           N      SFMTA         ON       0        1204  GEARY BLVD   
+5297           N      SFMTA         ON       0        1718  GEARY BLVD   
+5493           N      SFMTA         ON       0        1514  GEARY BLVD   
+5494           N      SFMTA         ON       0        1516  GEARY BLVD   
+5584           N      SFMTA         ON       0        1210  GEARY BLVD   
+5585           N      SFMTA         ON       0        1217  GEARY BLVD   
+5670           N      SFMTA         ON       0        1704  GEARY BLVD   
+5993           N      SFMTA         ON       0        1532  GEARY BLVD   
+5996           N      SFMTA         ON       0        1734  GEARY BLVD   
+6259           N      SFMTA         ON       0        1745  GEARY BLVD   
+6260           N      SFMTA         ON       0        1841  GEARY BLVD   
+...          ...        ...        ...     ...         ...         ...   
+25252          N      SFMTA         ON       0        2010  GEARY BLVD   
+25253          N      SFMTA         ON       0        2012  GEARY BLVD   
+25254          N      SFMTA         ON       0        2014  GEARY BLVD   
+25255          N      SFMTA         ON       0        2016  GEARY BLVD   
+25256          N      SFMTA         ON       0        2018  GEARY BLVD   
+25257          N      SFMTA         ON       0        2020  GEARY BLVD   
+25258          N      SFMTA         ON       0        2022  GEARY BLVD   
+25259          N      SFMTA         ON       0        2024  GEARY BLVD   
+25260          N      SFMTA         ON       0        2026  GEARY BLVD   
+25261          N      SFMTA         ON       0        2003  GEARY BLVD   
+25262          N      SFMTA         ON       0        2005  GEARY BLVD   
+25263          N      SFMTA         ON       0        2009  GEARY BLVD   
+25264          N      SFMTA         ON       0        2011  GEARY BLVD   
+25265          N      SFMTA         ON       0        2013  GEARY BLVD   
+25266          N      SFMTA         ON       0        2015  GEARY BLVD   
+25267          N      SFMTA         ON       0        2017  GEARY BLVD   
+25268          N      SFMTA         ON       0        2019  GEARY BLVD   
+25269          N      SFMTA         ON       0        2021  GEARY BLVD   
+25270          N      SFMTA         ON       0        2023  GEARY BLVD   
+25271          N      SFMTA         ON       0        2025  GEARY BLVD   
+25272          N      SFMTA         ON       0        2027  GEARY BLVD   
+25273          N      SFMTA         ON       0        2029  GEARY BLVD   
+25274          N      SFMTA         ON       0        2031  GEARY BLVD   
+25379          N      SFMTA         ON       0        1722  GEARY BLVD   
+25759          N      SFMTA         ON       0        1644  GEARY BLVD   
+26383          N      SFMTA         ON       0        1512  GEARY BLVD   
+26582          N      SFMTA         ON       0        1538  GEARY BLVD   
+26653          N      SFMTA         ON       0        1646  GEARY BLVD   
+27845          N      SFMTA         ON       0        1206  GEARY BLVD   
+28982          N      SFMTA         ON       0        2030  GEARY BLVD   
+
+       STREET_SEG RATEAREA SFPARKAREA                          LOCATION  
+173       6041102   Area 5   Fillmore  (37.7842100979, -122.4324773007)  
+349       6041102   Area 5   Fillmore  (37.7842462015, -122.4321939980)  
+904       6040201   Area 5   Fillmore  (37.7850360003, -122.4287689009)  
+1124      6038000   Area 3        NaN  (37.7854482000, -122.4238769987)  
+1125      6038000   Area 3        NaN  (37.7853385982, -122.4236526989)  
+1348      6041202   Area 5   Fillmore  (37.7847292003, -122.4316352994)  
+1637      6040201   Area 5   Fillmore  (37.7849776008, -122.4292271004)  
+1656      6041102   Area 5   Fillmore  (37.7842904021, -122.4318474007)  
+2373      6038000   Area 3        NaN  (37.7853498020, -122.4235811007)  
+2374      6038000   Area 3        NaN  (37.7853259974, -122.4237987005)  
+2495      6041103   Area 5   Fillmore  (37.7841091015, -122.4332699997)  
+3322      6041203   Area 5   Fillmore  (37.7844416005, -122.4338918978)  
+3633      6040201   Area 5   Fillmore  (37.7850827993, -122.4284020976)  
+3634      6040201   Area 5   Fillmore  (37.7848477987, -122.4303089974)  
+3642      6041202   Area 5   Fillmore  (37.7845941008, -122.4326950011)  
+4194      6040201   Area 5   Fillmore  (37.7848762021, -122.4300228001)  
+4195      6040201   Area 5   Fillmore  (37.7848241002, -122.4306797010)  
+4207      6038000   Area 3        NaN  (37.7854476021, -122.4239372981)  
+4228      6041202   Area 5   Fillmore  (37.7847006013, -122.4318592974)  
+5068      6038000   Area 3        NaN  (37.7855115001, -122.4232995023)  
+5297      6041202   Area 5   Fillmore  (37.7846814011, -122.4320097973)  
+5493      6040201   Area 5   Fillmore  (37.7850546976, -122.4286218991)  
+5494      6040201   Area 5   Fillmore  (37.7850457010, -122.4286925026)  
+5584      6038000   Area 3        NaN  (37.7854829010, -122.4235233997)  
+5585      6038000   Area 3        NaN  (37.7853310992, -122.4237231013)  
+5670      6041202   Area 5   Fillmore  (37.7847380013, -122.4315658023)  
+5993      6040201   Area 5   Fillmore  (37.7849974994, -122.4290713982)  
+5996      6041202   Area 5   Fillmore  (37.7846241024, -122.4324594976)  
+6259      6041102   Area 5   Fillmore  (37.7841917024, -122.4326214024)  
+6260      6041103   Area 5   Fillmore  (37.7839924981, -122.4341844988)  
+...           ...      ...        ...                               ...  
+25252     6042201   Area 3        NaN  (37.7840447452, -122.4365465803)  
+25253     6042201   Area 3        NaN  (37.7840354825, -122.4366192888)  
+25254     6042201   Area 3        NaN  (37.7840259044, -122.4366943667)  
+25255     6042201   Area 3        NaN  (37.7840174381, -122.4367607759)  
+25256     6042201   Area 3        NaN  (37.7840084504, -122.4368312746)  
+25257     6042201   Area 3        NaN  (37.7839999035, -122.4368983164)  
+25258     6042201   Area 3        NaN  (37.7839912705, -122.4369660326)  
+25259     6042201   Area 3        NaN  (37.7839827236, -122.4370330740)  
+25260     6042201   Area 3        NaN  (37.7839734833, -122.4371055546)  
+25261     6042101   Area 3        NaN  (37.7837277650, -122.4362613448)  
+25262     6042101   Area 3        NaN  (37.7837179121, -122.4363386324)  
+25263     6042101   Area 3        NaN  (37.7837021250, -122.4364624695)  
+25264     6042101   Area 3        NaN  (37.7836930784, -122.4365334323)  
+25265     6042101   Area 3        NaN  (37.7836846715, -122.4365993776)  
+25266     6042101   Area 3        NaN  (37.7836760388, -122.4366670938)  
+25267     6042101   Area 3        NaN  (37.7836672449, -122.4367360749)  
+25268     6042101   Area 3        NaN  (37.7836587251, -122.4368029054)  
+25269     6042101   Area 3        NaN  (37.7836500924, -122.4368706217)  
+25270     6042101   Area 3        NaN  (37.7836411587, -122.4369406992)  
+25271     6042101   Area 3        NaN  (37.7836319723, -122.4370127582)  
+25272     6042101   Area 3        NaN  (37.7836227322, -122.4370852389)  
+25273     6042101   Area 3        NaN  (37.7836132718, -122.4371594484)  
+25274     6042101   Area 3        NaN  (37.7836033114, -122.4372375791)  
+25379     6041202   Area 5   Fillmore  (37.7846615025, -122.4321666003)  
+25759     6040201   Area 5   Fillmore  (37.7848387574, -122.4304501354)  
+26383     6040201   Area 5   Fillmore  (37.7850640015, -122.4285493006)  
+26582     6040201   Area 5   Fillmore  (37.7849704985, -122.4292828010)  
+26653     6040201   Area 5   Fillmore  (37.7848340431, -122.4305237224)  
+27845     6038000   Area 3        NaN  (37.7855013021, -122.4233779010)  
+28982     6042201   Area 3        NaN  (37.7839561423, -122.4372415762)  
+
+[163 rows x 16 columns]
