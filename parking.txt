@@ -13,3 +13,14 @@ street summary statistics:
     median: 39 meters
     minimum: 1 meter
     maximum: 1425 meters
+    
+From an enforcement perspective, I would think that the active sensor data 
+would hold the most promise in conjunction with usage data (which is
+unfortunately missing). If we were to pinpoint the most used meters, we could
+outfit them with license plate readers similar to those on the Golden Gate toll
+bridge so as to automate payment and reduce delinquency. That said, that might
+not be cost effective, but I think it would at least be prudent to upgrade as
+many meters to smart meters as possible because in my experience, more people
+carry around credit/debit cards than they do coins, and it would make both
+payment and collection easier. Granted, this is coming from someone with
+minimal business experience, but those would be my intuitive first guesses.
