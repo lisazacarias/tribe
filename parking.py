@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 
 def parking():
   data = pd.read_csv('Parking_meters.csv')
-  # umeter_ids = data['POST_ID'].nunique()
-  
-  # print "unique meters: ", umeter_ids
   print "unique meters: ", len(data)
   
   smart_filter = data['SMART_METE'].map(lambda x: x == 'Y')
@@ -20,11 +17,12 @@ def parking():
   print "number of smart meters on geary blvd: ", len(geary)
 
   ustreets = data['STREETNAME'].value_counts()
-  print "number of distinct streets with meters: ", len(ustreets)
+  num_streets = len(ustreets)
+  print "number of distinct streets with meters: ", num_streets
   
   print "top five streets with the most meters:"
   for i in xrange(0,5):
-    print "\t" + str(ustreets.index[i]) + ": " + str(ustreets[i]) + " meters"
+    print "    " + str(ustreets.index[i]) + ": " + str(ustreets[i]) + " meters"
     
   meter_types = data['METER_TYPE'].value_counts()
   
@@ -32,23 +30,25 @@ def parking():
   labels = ["Single-space", "Multi-space"]
   
   for i in xrange(0,2):
-    # labels.append(meter_types.index[i])
     percents.append((meter_types[i]/len(data))*100)
-  
-  # counts = meter_types.index.values.pop()
-#
-#   for idx in meter_types.index:
-#     print str(idx) + ": " + str(meter_types[idx])
-#   percents = []
-#   for count in meter_types:
-#     percents.append((count/len(data))*100)
     
-  
   plt.pie(percents, labels = labels, autopct = "%1.1f%%", 
     colors = ['cornflowerblue', 'c'], shadow=True, explode = (0,0.1))
     
   plt.axis('equal')
-  plt.show()
+  plt.title("Breakdown of Meter Types")
+  plt.savefig("MeterType.png")
+  
+  total = 0
+  for count in ustreets:
+    total += count
+    
+  print "street summary statistics:"
+  
+  print "    " + "mean: " + str(round(total/num_streets, 2)) + " meters"
+  print "    " + "median: " + str(ustreets[num_streets//2]) + " meters" 
+  print "    " + "minimum: " + str(ustreets[-1]) + " meter"
+  print "    " + "maximum: " + str(ustreets[0]) + " meters"
         
 if __name__ == '__main__':
   parking()
